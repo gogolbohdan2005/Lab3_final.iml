@@ -1,0 +1,10 @@
+Junkers
+400
+Fighter
+700
+200
+Shctuka
+40
+Bomber
+1000
+1200

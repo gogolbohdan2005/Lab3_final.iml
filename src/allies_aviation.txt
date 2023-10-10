@@ -1,0 +1,11 @@
+Mustang
+400
+Fighter
+700
+200
+B-29
+50
+Bomber
+1900
+1200
+

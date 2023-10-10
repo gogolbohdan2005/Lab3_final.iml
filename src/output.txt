@@ -1,0 +1,201 @@
+Задайте команду союзників:
+Задайте команду противників:
+
+
+ !      /-----\============@
+ |_____/_______\_____
+/____________________\
+ \+__+__+__+__+__+__*/
+  
+Unit:
+Name='Tiger', Health=800, Damage=100
+
+
+ ------
+| | # \                                      |
+| ____ \_________|----^"|"""""|"\___________ |
+   \___\   FO + 94 >>    `""""""""     =====  "|D
+       ^^-------____--""""""""""+""--_  __--"|
+                   `""|"-->####)+---|`""     |
+                                 \  \
+                                <- O -)
+  
+Unit:
+Name='Mustang', Health=400, Damage=200
+
+
+                           ______
+        |\_______________ (_____\\______________
+HH======#H###############H#######################
+        ' ~""""""""""""""`##(_))#H\"""""Y########
+                          ))    \#H\       `"Y###
+                          "      }#H)
+  
+Unit:
+Name='Alpha Company', Health=150, Damage=50
+
+
+   ⣶⣶⣶⣦⣤⣤⣤⣤⣤⣤     ⠀
+⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⠟⠋⠉⢉⡉⠙⢿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠀
+⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⠇⠀⠺⣦⣾⣇⣀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣾⣿⠟⠀⢸⡄⠰⠖⢻⡿⣿⡉⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣠⣴⣿⡿⠃⠀⠀⠈⢷⣄⠀⠛⠁⠈⢁⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠸⠿⠿⠿⠟⠀⠀⠀⠀⠀⠀⠙⠛⠷⠶⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
+Unit:
+Name='Long Tom', Health=900, Damage=1500
+
+
+ !      /-----\============@
+ |_____/_______\_____
+/____________________\
+ \+__+__+__+__+__+__*/
+  
+Unit:
+Name='Panther', Health=750, Damage=90
+
+
+ ------
+| | # \                                      |
+| ____ \_________|----^"|"""""|"\___________ |
+   \___\   FO + 94 >>    `""""""""     =====  "|D
+       ^^-------____--""""""""""+""--_  __--"|
+                   `""|"-->####)+---|`""     |
+                                 \  \
+                                <- O -)
+  
+Unit:
+Name='Junkers', Health=400, Damage=200
+
+
+                           ______
+        |\_______________ (_____\\______________
+HH======#H###############H#######################
+        ' ~""""""""""""""`##(_))#H\"""""Y########
+                          ))    \#H\       `"Y###
+                          "      }#H)
+  
+Unit:
+Name='Gamma Company', Health=130, Damage=40
+
+
+   ⣶⣶⣶⣦⣤⣤⣤⣤⣤⣤     ⠀
+⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⠟⠋⠉⢉⡉⠙⢿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠀
+⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⠇⠀⠺⣦⣾⣇⣀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣾⣿⠟⠀⢸⡄⠰⠖⢻⡿⣿⡉⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣠⣴⣿⡿⠃⠀⠀⠈⢷⣄⠀⠛⠁⠈⢁⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠸⠿⠿⠿⠟⠀⠀⠀⠀⠀⠀⠙⠛⠷⠶⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
+Unit:
+Name='Hummel', Health=850, Damage=1400
+Panther receives 100 damage. Remaining health: 650
+Tiger атакує Panther і завдає 100 урону.
+Junkers receives 200 damage. Remaining health: 200
+Mustang атакує Junkers і завдає 200 урону.
+Alpha Company receives 40 damage. Remaining health: 110
+Gamma Company атакує Alpha Company і завдає 40 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Panther receives 100 damage. Remaining health: 550
+Tiger атакує Panther і завдає 100 урону.
+Junkers has been destroyed!
+Mustang атакує Junkers і завдає 200 урону.
+Alpha Company receives 40 damage. Remaining health: 70
+Gamma Company атакує Alpha Company і завдає 40 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Panther receives 100 damage. Remaining health: 450
+Tiger атакує Panther і завдає 100 урону.
+Gamma Company receives 50 damage. Remaining health: 80
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Tiger receives 90 damage. Remaining health: 710
+Panther атакує Tiger і завдає 90 урону.
+Gamma Company receives 50 damage. Remaining health: 30
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Panther receives 100 damage. Remaining health: 350
+Tiger атакує Panther і завдає 100 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Panther receives 100 damage. Remaining health: 250
+Tiger атакує Panther і завдає 100 урону.
+Junkers has been destroyed!
+Mustang атакує Junkers і завдає 200 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Panther receives 100 damage. Remaining health: 150
+Tiger атакує Panther і завдає 100 урону.
+Junkers has been destroyed!
+Mustang атакує Junkers і завдає 200 урону.
+Tiger receives 90 damage. Remaining health: 620
+Panther атакує Tiger і завдає 90 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Tiger receives 90 damage. Remaining health: 530
+Panther атакує Tiger і завдає 90 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Tiger receives 90 damage. Remaining health: 440
+Panther атакує Tiger і завдає 90 урону.
+Junkers has been destroyed!
+Mustang атакує Junkers і завдає 200 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Panther receives 100 damage. Remaining health: 50
+Tiger атакує Panther і завдає 100 урону.
+Junkers has been destroyed!
+Mustang атакує Junkers і завдає 200 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Panther has been destroyed!
+Tiger атакує Panther і завдає 100 урону.
+Junkers has been destroyed!
+Mustang атакує Junkers і завдає 200 урону.
+Gamma Company has been destroyed!
+Alpha Company атакує Gamma Company і завдає 50 урону.
+Hummel has been destroyed!
+Long Tom атакує Hummel і завдає 1500 урону.
+Allies have won the battle!
+
+
+Allies alive
+Tiger
+Mustang
+Alpha Company
+Long Tom
+
+
+Enemies alive
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⢀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣴⣶⣶⣶⣦⣤⣤⣤⣤⣶⣾⣿⣿⣿⡗⠲⠲⠿⠿⠿⠷⠦⠤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣤⣶⣦⠤⠤⣄⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠟⢉⡽⠟⠛⠛⠛⠛⣻⡿⠷⣄⠈⢿⠀⠸⡆⡇⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠸⣿⣿⡿⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠙⠒⠒⠒⠒⠠⠤⠤⠤⣄⣀⣰⣯⣴⣯⣤⣄⣀⣠⠖⠋⠁⠀⠀⢸⠀⣾⠀⢀⣷⣸⠀⣤⣤⣄⣠⣶⡄⣶⣦⠸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⠉⠙⠓⠒⠒⠲⠤⠤⠤⢤⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣿⣆⠀⠈⠳⡄⠀⠀⠀⠀⢸⠀⡇⠀⢻⢹⡀⠀⣿⡄⢻⣿⣄⣻⣿⡘⣧⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠑⠒⠒⠒⠦⣤⣤⣤⣀⡴⣿⠏⠀⠀⢀⠇⠀⠀⠀⠀⡆⢸⠇⠀⠈⠛⡟⢆⠘⣧⠈⣿⢹⣻⡿⢷⣽⠈⣧⣄⣀⣀⣀⣀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣋⣀⠈⣿⣚⣓⣒⣒⣚⣉⠲⣤⣄⣀⣰⣷⠟⠀⠀⠀⠀⢹⢸⠀⠙⢿⣟⣈⣿⠧⠤⠝⠒⠋⠉⠁⠀⠈⣿⡄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠶⠶⢶⣿⣿⣿⣿⣽⣿⣻⣿⣿⣛⣻⣿⢿⣿⣟⣿⣿⣿⣿⣿⠖⠒⣲⣶⣶⠾⠶⠓⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⡆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠁⣀⣴⣋⠉⣹⡇⣠⣿⠿⣿⡟⠉⠉⠉⠁⠉⠉⠉⠉⣛⡛⠛⣿⢛⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡤⠤⢴⣶⣾⣟⡽⠿⢤⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠁⠘⠛⢻⣿⣿⠵⢫⣾⡿⠁⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿⣿⡏⢹⠸⣿⣿⣃⣀⣠⣤⠴⠖⠒⠒⣿⣏⣩⠤⠾⢷⣖⣉⣉⣉⣷⡶⠖⢚⣿
+⠀⠀⠀⢀⣴⠞⠉⠉⠉⠉⢉⡽⠛⣳⡶⠂⠀⠀⣠⣼⡿⠋⠀⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⠉⣿⡏⠉⠉⢀⣀⠬⢿⣶⡒⠊⠉⠉⢙⣿⣦⡤⠔⠛⣿⠉⢀⣴⣷⣾⣿⣿
+⠀⠀⠀⣾⠁⠀⠀⠀⠀⡰⠋⣀⣴⡟⠁⠀⢠⣾⣿⣏⣀⣀⣀⣀⣀⣿⡇⠀⠀⣠⠾⠛⠉⠉⠉⠐⢒⡾⠛⠳⣄⡀⠀⠀⠀⣀⣉⢿⡶⠒⠋⠉⠀⣿⡄⣀⣴⣿⣾⣿⣿⣿⣿⣿⢹
+⠀⠀⠀⢷⣄⣀⣀⣀⣀⡇⣼⣿⡟⠀⠠⣤⠀⠉⠉⡉⣉⡉⠉⠛⠛⠿⠇⠀⣰⠋⠀⠀⠀⠀⠀⢠⠋⠀⠀⢀⡠⠝⢷⠊⠉⠁⠀⠀⣧⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀
+⠀⠀⠀⠀⢈⣿⣿⣿⣿⣿⣿⣿⣿⣍⠉⠻⠶⠶⣾⠦⠤⠬⣿⣄⣀⣼⣲⣾⡿⠀⠀⠀⠀⠀⠀⡇⠀⣠⠞⢉⣠⣤⣾⣷⣶⣶⣦⣤⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠀⠀
+⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣧⠉⠳⣄⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⢹⣿⢿⣶⣤⣤⣤⣄⣤⡁⢰⠃⣴⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⡿⣿⣿⡿⠟⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣷⣶⣶⣶⣤⣤⣤⣄⣀⣀⣀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣯⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠈⠉⠉⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠛⠛⠻⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

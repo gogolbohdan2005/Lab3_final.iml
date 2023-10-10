@@ -1,0 +1,8 @@
+Alpha Company
+150
+Assault Rifle
+50
+Beta Company
+120
+Sniper Rifle
+30

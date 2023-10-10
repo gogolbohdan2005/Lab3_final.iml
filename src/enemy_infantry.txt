@@ -1,0 +1,8 @@
+Gamma Company
+130
+Machine Gun
+40
+Delta Company
+110
+Shotgun
+25
